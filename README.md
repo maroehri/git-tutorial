@@ -4,4 +4,4 @@
 
 This section is supposed to teach git to newcomers.
 
-Add a list of different git commands and their purpose
+Add a list of different git commands and their purpose.
