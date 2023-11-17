@@ -12,7 +12,7 @@ In this section you will learn how to use the most basic commands
 
 ### git init
 
-This will create and initialize an empty git repository
+the `git init` command will create and initialize an empty git repository
 
 ### git add
 
