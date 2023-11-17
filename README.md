@@ -2,7 +2,7 @@
 
 This tutorial will provide some information about how to use git.
 
-## First Steps
+## First Steps Material
 
 This section is supposed to teach git to newcomers.
 
